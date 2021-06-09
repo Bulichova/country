@@ -76,14 +76,14 @@ body {
   text-transform: uppercase;
   font-size: 5rem;
 }
-.coutries-list {
+.countries-list {
   display: flex;
   flex-flow: row wrap;
   padding: 100px;
   justify-content: center;
   cursor: pointer;
 }
-.coutries-list li {
+.countries-list li {
   display: flex;
   align-items: center;
   padding: 20px;
@@ -92,7 +92,7 @@ body {
   min-width: 300px;
   width: 40%;
 }
-.coutries-list li img {
+.countries-list li img {
   margin-right: 20px;
 }
 .modal-item {
